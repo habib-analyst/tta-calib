@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)] [![GitHub stars](https://img.shields.io/github/stars/habib-analyst/tta-calib.svg)](https://github.com/habib-analyst/tta-calib)
+
 # tta-calib — Shift-Aware Test-Time Adaptation with Calibrated Referral
 
 Fixed test-time adaptation (TTA) can **hurt** on clean data, and fixed
